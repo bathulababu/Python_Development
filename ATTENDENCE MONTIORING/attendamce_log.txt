@@ -1,1 +1,35 @@
+2024-10-17 21:33:32,380 - INFO - Added student: Naveen Babu B (Roll No: 101)
+2024-10-17 21:33:32,380 - INFO - Added student: Pradeep V (Roll No: 102)
+2024-10-17 21:33:32,380 - INFO - Added student: Prakesh M (Roll No: 103)
+2024-10-17 21:33:32,380 - INFO - Added student: Nirmal M (Roll No: 104)
+2024-10-17 21:33:32,380 - INFO - Added student: Naveen b (Roll No: 105)
+2024-10-17 21:33:32,380 - INFO - Added student: Praneeth Kumar R (Roll No: 106)
+2024-10-17 21:33:32,380 - INFO - Added student: Rajasekhar N (Roll No: 107)
+2024-10-17 21:33:32,380 - INFO - Added student: Keerthi S (Roll No: 108)
+2024-10-17 21:33:32,380 - INFO - Added student: SriHarshitha V (Roll No: 109)
+2024-10-17 21:33:32,380 - INFO - Added student: Navya A (Roll No: 110)
+2024-10-17 21:33:59,180 - INFO - Marked attendance for Naveen Babu B (Roll No: 101) on 02-03-2022.
+2024-10-17 21:34:07,351 - INFO - Marked attendance for Pradeep V (Roll No: 102) on 02-03-2022.
+2024-10-17 21:34:16,907 - INFO - Marked attendance for Prakesh M (Roll No: 103) on 02-03-2022.
+2024-10-17 21:34:21,335 - INFO - Marked attendance for Nirmal M (Roll No: 104) on 02-03-2022.
+2024-10-20 20:46:56,033 - INFO - Added student: Naveen Babu B (Roll No: 101)
+2024-10-20 20:46:56,033 - INFO - Added student: Pradeep V (Roll No: 102)
+2024-10-20 20:46:56,033 - INFO - Added student: Prakesh M (Roll No: 103)
+2024-10-20 20:46:56,033 - INFO - Added student: Nirmal M (Roll No: 104)
+2024-10-20 20:46:56,033 - INFO - Added student: Naveen b (Roll No: 105)
+2024-10-20 20:46:56,033 - INFO - Added student: Praneeth Kumar R (Roll No: 106)
+2024-10-20 20:46:56,033 - INFO - Added student: Rajasekhar N (Roll No: 107)
+2024-10-20 20:46:56,033 - INFO - Added student: Keerthi S (Roll No: 108)
+2024-10-20 20:46:56,033 - INFO - Added student: SriHarshitha V (Roll No: 109)
+2024-10-20 20:46:56,033 - INFO - Added student: Navya A (Roll No: 110)
+2024-10-20 20:47:19,824 - INFO - Marked attendance for Naveen Babu B (Roll No: 101) on 04-09-2022.
+2024-10-20 20:47:25,076 - INFO - Marked attendance for Pradeep V (Roll No: 102) on 04-09-2022.
+2024-10-20 20:47:26,778 - INFO - Marked attendance for Prakesh M (Roll No: 103) on 04-09-2022.
+2024-10-20 20:47:28,195 - INFO - Marked attendance for Nirmal M (Roll No: 104) on 04-09-2022.
+2024-10-20 20:47:29,624 - INFO - Marked attendance for Naveen b (Roll No: 105) on 04-09-2022.
+2024-10-20 20:47:30,514 - INFO - Marked attendance for Praneeth Kumar R (Roll No: 106) on 04-09-2022.
+2024-10-20 20:47:31,561 - INFO - Marked attendance for Rajasekhar N (Roll No: 107) on 04-09-2022.
+2024-10-20 20:47:32,373 - INFO - Marked attendance for Keerthi S (Roll No: 108) on 04-09-2022.
+2024-10-20 20:47:33,338 - INFO - Marked attendance for SriHarshitha V (Roll No: 109) on 04-09-2022.
+2024-10-20 20:47:34,795 - INFO - Marked attendance for Navya A (Roll No: 110) on 04-09-2022.
 
